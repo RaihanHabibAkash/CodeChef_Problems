@@ -5,3 +5,5 @@
 [START257D - Echo](https://www.codechef.com/problems/ECHOECHO)
 
 [START257D - Pigeon Attack](https://www.codechef.com/problems/PGNATK)
+
+[START257D - Lit Up](https://www.codechef.com/problems/LITUP)
